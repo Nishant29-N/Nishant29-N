@@ -57,9 +57,3 @@
 <img src="https://raw.githubusercontent.com/Nishant29-N/Nishant29-N/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<div align="center">
-  <img height="500" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmN4bmdocTNhbnRiOXVwN2Z3MjJzdXd1NHN1NnJkMm0yNDlueHhvdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1zRfp0Jwsag4yPekP4/giphy.gif"  />
-</div>
-
-###
